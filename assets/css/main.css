@@ -1317,20 +1317,20 @@ input, select, textarea {
 
 		#header .logo-container i {
  			position: absolute;
-  			font-size: 1.5rem; /* Adjust the font size as needed */
+  			font-size: 1rem; /* Adjust the font size as needed */
   			color: #ffffff; /* Replace with your desired color */
 		}
 
 		#header .logo-container i:nth-child(1) { /* Target the first letter (N) */
-  			top: 0;
+  			top: -1rem;
   			left: 0;
 		}
 		#header .logo-container i:nth-child(2) { 
-  			top: 1.5rem;
+  			top: 0;
   			left: 0;
 		}
 		#header .logo-container i:nth-child(3) { 
-  			top: 3rem;
+  			top: 1rem;
   			left: 0;
 		}
 
