@@ -1290,7 +1290,30 @@ input, select, textarea {
 			#header > :first-child:before {
 				display: none;
 			}
+		#header .logo-container {
+  			position: relative;
+  			display: inline-block;
+		}
 
+		#header .logo-container i {
+ 			position: absolute;
+  			font-size: 2rem; /* Adjust the font size as needed */
+  			color: #ffffff; /* Replace with your desired color */
+		}
+
+		#header .logo-container i:nth-child(1) { /* Target the first letter (N) */
+  			top: 0;
+  			left: 0;
+		}
+		#header .logo-container i:nth-child(2) { 
+  			top: 0;
+  			left: 0;
+		}
+		#header .logo-container i:nth-child(3) { 
+  			top: 0;
+  			left: 0;
+		}
+/*
 		#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
@@ -1302,7 +1325,7 @@ input, select, textarea {
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
-
+*/
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
