@@ -1323,15 +1323,15 @@ input, select, textarea {
 
 		#header .logo-container i:nth-child(1) { /* Target the first letter (N) */
   			top: -1.5rem;
-  			left: -0.5;
+  			left: -0.5rem;
 		}
 		#header .logo-container i:nth-child(2) { 
-  			top: 0.5;
-  			left: -0.5;
+  			top: -0.5rem;
+  			left: -0.5rem;
 		}
 		#header .logo-container i:nth-child(3) { 
   			top: 0.5rem;
-  			left: -0.5;
+  			left: -0.5rem;
 		}
 
 
