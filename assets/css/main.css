@@ -1290,6 +1290,7 @@ input, select, textarea {
 			#header > :first-child:before {
 				display: none;
 			}
+
 		#header .logo-container {
   			position: relative;
   			display: inline-block;
@@ -1306,11 +1307,11 @@ input, select, textarea {
   			left: 0;
 		}
 		#header .logo-container i:nth-child(2) { 
-  			top: 0;
+  			top: 2rem;
   			left: 0;
 		}
 		#header .logo-container i:nth-child(3) { 
-  			top: 0;
+  			top: 4rem;
   			left: 0;
 		}
 /*
