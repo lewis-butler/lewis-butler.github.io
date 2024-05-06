@@ -1292,9 +1292,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
+			width: 6rem;
+			height: 6rem;
+			line-height: 6rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
@@ -1322,7 +1322,7 @@ input, select, textarea {
 		}
 
 		#header .logo-container i:nth-child(1) { /* Target the first letter (N) */
-  			top: -1rem;
+  			top: -3rem;
   			left: 0;
 		}
 		#header .logo-container i:nth-child(2) { 
@@ -1330,7 +1330,7 @@ input, select, textarea {
   			left: 0;
 		}
 		#header .logo-container i:nth-child(3) { 
-  			top: 1rem;
+  			top: 2rem;
   			left: 0;
 		}
 
