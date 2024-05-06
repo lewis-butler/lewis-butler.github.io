@@ -1317,7 +1317,7 @@ input, select, textarea {
 
 		#header .logo-container i {
  			position: absolute;
-  			font-size: 1rem; /* Adjust the font size as needed */
+  			font-size: 1.5rem; /* Adjust the font size as needed */
   			color: #ffffff; /* Replace with your desired color */
 		}
 
@@ -1326,11 +1326,11 @@ input, select, textarea {
   			left: 0;
 		}
 		#header .logo-container i:nth-child(2) { 
-  			top: 1rem;
+  			top: 1.5rem;
   			left: 0;
 		}
 		#header .logo-container i:nth-child(3) { 
-  			top: 2rem;
+  			top: 3rem;
   			left: 0;
 		}
 
